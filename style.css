@@ -37,3 +37,23 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+/* Image Container */
+.image-container {
+    margin: 5px 30%;
+}
+
+.image-container img {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+/* Media Query: Large Samrtphone */
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 30px;
+    }
+    .image-container {
+        margin: 10px;
+    }
+}
