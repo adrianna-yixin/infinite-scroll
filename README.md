@@ -7,7 +7,9 @@ This project implements an Infinite Scroll web page that dynamically loads and d
 ### Prerequisites
 - A modern web browser.
 - An API key from Unsplash.
-### Installation
+### Access the Web Page
+You can access the live web page directly at: [Infinite Scroll](https://adrianna-yixin.github.io/infinite-scroll/).
+### How to Use Locally
 1. Clone the repository: `git clone https://github.com/adrianna-yixin/infinite-scroll.git`
 2. Open `index.html` in your web browser.
 ## 👩‍💻 Author
